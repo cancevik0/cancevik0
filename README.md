@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @cancevik0
-- 👀 I’m interested in e-sports and coding
-- 🌱 I’m currently learning stress testing and python
-- 📫 How to reach me;
 - instagram.com/cancevik0
-- twitter.com/woxyvlr
+- twitter.com/naccsgo
 
 <!---
 cancevik0/cancevik0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
