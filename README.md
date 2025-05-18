@@ -6,7 +6,7 @@ I am **[Can](https://github.com/cancevik0)**, a software developer and technolog
 - My goal: To advance in full-stack web development and game programming.
 - Currently learning: Lua, HTML, CSS, JavaScript, Python, C, and Unity3D.
 - Reach me at: [LinkedIn](https://www.linkedin.com/in/ismail-can-çevik-a401a7334) | [Twitter](https://twitter.com/naccsgo)
-- Email: cancevik@miamivice.com.tr
+- Email: info@cancevik.tech
 
 ---
 
