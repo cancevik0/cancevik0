@@ -1,4 +1,4 @@
-# Hi m8, It's [Can](https://github.com/cancevik0)!
+# Hi m8, It's [Can](https://github.com/cancevik0)
 
 ## Technologies & Tools
 
