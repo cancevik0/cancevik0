@@ -7,7 +7,7 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript)
 - ![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=flat&logo=node.js)
 - ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)
-- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+- ![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=flat&logo=lua&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat&logo=git)
 
 ---
