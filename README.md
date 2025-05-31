@@ -8,6 +8,8 @@
 - ![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=flat&logo=node.js)
 - ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)
 - ![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=flat&logo=lua&logoColor=white)
+- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-FFFFFF?style=flat&logo=adobe-photoshop&logoColor=white)
+- ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-FFFFFF?style=flat&logo=adobe-after-effects&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat&logo=git)
 
 ---
