@@ -2,16 +2,12 @@
 
 ## Technologies & Tools
 
-**Frontend**:
 - ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=flat&logo=html5)
 - ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat&logo=css3)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript)
-
-**Backend**:
 - ![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=flat&logo=node.js)
 - ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)
-
-**Tools**:
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat&logo=git)
 
 ---
