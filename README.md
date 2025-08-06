@@ -1,19 +1,3 @@
-# Hi m8, It's [Can](https://github.com/cancevik0)
-
-## Technologies & Tools
-
-- ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=flat&logo=html5)
-- ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=javascript)
-- ![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=flat&logo=node.js)
-- ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)
-- ![Lua](https://img.shields.io/badge/Lua-FFFFFF?style=flat&logo=lua&logoColor=white)
-- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-FFFFFF?style=flat&logo=adobe-photoshop&logoColor=white)
-- ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-FFFFFF?style=flat&logo=adobe-after-effects&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat&logo=git)
-
----
-
 ## GitHub Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cancevik0&layout=compact)](https://github.com/cancevik0/github-readme-stats)
