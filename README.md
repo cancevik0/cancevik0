@@ -6,6 +6,6 @@
 
 ## Respect for my brothers who support me. Viva Brothers, may the force be with us.
 
-![GitHub README](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZrZTV4cW5tMXZsaDBwbXUxZXZnczN0M3U1ZTVzbGRtd2s5c2gyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeaguLyPW0IO2NSB8p/giphy.gif)
+![GitHub README](https://media.discordapp.net/attachments/608711494279888952/1007029266032103534/IMG_1902.gif?ex=68b4b696&is=68b36516&hm=ad659e5b1423ae744a6828c16eda0c59eece2c16a3628a361ccf799dfcc2485e&=&width=398&height=222)
 
 ---
