@@ -12,15 +12,14 @@ Always learning, always coding, and always caffeinated.
 - **Tools & Platforms:** Git, Docker, Linux  
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanCevik&show_icons=false&theme=default&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cancevik0&layout=compact&theme=default&hide_border=true)  
 
 ## Philosophy
-> i watched supernatural, i have the mentality of Dean Winchester
+i watched supernatural, i have the mentality of Dean Winchester
 
 
 ## Contact
-- **Email:** yourmail@example.com  
-- **LinkedIn:** [linkedin.com/in/ismailcancevik](https://linkedin.com/in/ismailcancevik)  
+- **LinkedIn:** [Can Çevik](https://linkedin.com/in/ismailcancevik)  
 
 ## Respect for my brothers who support me. Viva Brothers, may the force be with us.
 
