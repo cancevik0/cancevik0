@@ -6,7 +6,7 @@ Computer Programming student with a knack for web development, game modding, and
 Always learning, always coding, and always caffeinated.  
 
 ## Skills & Tools
-- **Languages:** C, C#, Python, JavaScript, Kotlin  
+- **Languages:** C, C#, Python, JavaScript, Kotlin, Lua
 - **Frameworks & Libraries:** Node.js, Express.js, React, QBCore  
 - **Databases:** MySQL, SQLite, MongoDB  
 - **Tools & Platforms:** Git, Docker, Linux  
